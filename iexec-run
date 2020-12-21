@@ -1,0 +1,6 @@
+#!/bin/sh
+iexec app run 0x125d0FAbEFD265b4da5502FBf4B836411020706A \
+      --chain goerli \
+      --wallet-file user_wallet \
+      --skip-request-check \
+      --watch
